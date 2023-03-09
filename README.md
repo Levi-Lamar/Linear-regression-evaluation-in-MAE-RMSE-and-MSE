@@ -2,13 +2,13 @@
 It consist of the Linear Regression together with the evaluation aspects in terms of MAE, RMSE, and MSE.
 This project aims to evaluate the performance of a linear regression model on a given dataset. Linear regression is a popular method for modeling the relationship between a dependent variable and one or more independent variables.
 
-#Dataset
+Dataset
 
 The dataset used in this project is the Churn_Modelling dataset [Churn_Modelling.csv](https://github.com/Levi-Lamar/Linear-regression-evaluation-in-MAE-RMSE-and-MSE/files/10927715/Churn_Modelling.csv)
 
 Which contains information about the customer details. The dataset includes 10000 instances and 13 attributes including the CreditScore of customers registered.
 
-#Evaluation Metrics
+Evaluation Metrics
 
 The performance of the linear regression model will be evaluated using the following metrics:
 
