@@ -21,12 +21,7 @@ Though the results i found out is that there was a slight variation in the accur
 Requirements
 The following Python packages are required to run the Jupyter Notebook:
 
-numpy
-pandas
-matplotlib
-scikit-learn
-These packages can be installed using pip:
-<<pip install numpy pandas matplotlib scikit-learn>>
-Usage
-To run the Jupyter Notebook, execute the following command:
-<<jupyter notebook>>
+numpy,
+pandas,
+matplotlib,
+scikit-learn.
